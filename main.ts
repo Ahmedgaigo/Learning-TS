@@ -71,6 +71,6 @@ let list4 = [1, 2, 3]; // inferred type is number[]
 // console.log(list4);
 list4.push(4); // OK
 // list4.push("Hello"); // Error: Argument of type 'string' is not assignable to parameter of type 'number'.
-console.log(list4);
+// console.log(list4);
 
 
