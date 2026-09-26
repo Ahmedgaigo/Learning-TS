@@ -74,3 +74,5 @@ list4.push(4); // OK
 // console.log(list4);
 
 
+let crypt: string[] = ["Bitcoin", "Ethereum", "Cardano"];
+console.log(crypt[2]);
